@@ -17,7 +17,7 @@
   ],
   "author": "",
   "license": "ISC",
-  "homepage": "https://your-username.github.io/save-links",
+  
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
