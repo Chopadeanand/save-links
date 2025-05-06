@@ -34,8 +34,8 @@ export default function Footer(props) {
     
     <div className='footer'>
       <a href='https://github.com/Chopadeanand' target='_blank' rel="noreferrer"> <FontAwesomeIcon icon={faGithub} /> Github </a>
-      <a href='https://github.com/Chopadeanand/link-saver' target='_blank' rel="noreferrer"> <FontAwesomeIcon icon={faLink} /> App repo</a>
-      <a href='https://github.com/Chopadeanand/link-saver/fork' target='_blank' rel="noreferrer"> <FontAwesomeIcon icon={faCodeFork} /> codefock</a>
+      <a href='https://github.com/Chopadeanand/save-links' target='_blank' rel="noreferrer"> <FontAwesomeIcon icon={faLink} /> App repo</a>
+      <a href='https://github.com/Chopadeanand/save-links/fork' target='_blank' rel="noreferrer"> <FontAwesomeIcon icon={faCodeFork} /> codefock</a>
       <a href='mailto:?subject=Feedback%20for%20Savelinks&amp;body=%3C--Your%20feedback--%3E'> <FontAwesomeIcon icon={faPaperPlane} /> feedback</a>
     </div>
 
